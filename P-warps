@@ -1,8 +1,8 @@
-warp://162.159.195.180:7281?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTN-Irancell1
-warp://162.159.192.115:3854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTN-Irancell2
-warp://162.159.192.42:864?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTN-Irancell3
-warp://162.159.192.164:939?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTN-Irancell4
-warp://162.159.192.78:7152?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTN-Irancell5
+warp://162.159.195.180:7281?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTNIrancell1
+warp://162.159.192.115:3854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTNIrancell2
+warp://162.159.192.42:864?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTNIrancell3
+warp://162.159.192.164:939?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTNIrancell4
+warp://162.159.192.78:7152?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#MTNIrancell5
 warp://[2606:4700:d0::14ba:3454:8096:e0a1]:7152?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mcinet1
 warp://[2606:4700:d0::10bf:2f36:a402:e0b3]:1387?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mcinet2
 warp://[2606:4700:d0::2a92:b295:d326:735b]:2408?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mcinet3
