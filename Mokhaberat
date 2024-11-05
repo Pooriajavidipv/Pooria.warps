@@ -1,0 +1,5 @@
+warp://162.159.192.150:943?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mokhaberat1
+warp://162.159.192.185:8886?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mokhaberat2
+warp://162.159.192.7:1180?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mokhaberat3
+warp://162.159.192.102:5956?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mokhaberat4
+warp://[2606:4700:d0::4967:3016:39e5:fd62]:1074?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mcinet5
